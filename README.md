@@ -27,6 +27,7 @@ Emulador|Ingentes ríos de tinta digitales han sido generados a raíz de esto. L
 2. Asi mismo no puede manejar nada que exceda la capacidad del raspberry. 
    1.  Por la exigencia del mismo
    1.  La nesecidad de un dispositivo mas avanzado 
+   2.  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
 ## Referencias
 [Consola retro](https://www.adslzone.net/reportajes/tecnologia/proyectos-raspberry-pi/)
 
